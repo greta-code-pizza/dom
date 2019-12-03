@@ -1,0 +1,3 @@
+let document = {
+    // CODE HERE
+};
