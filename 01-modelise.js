@@ -1,3 +1,0 @@
-let document = {
-    // CODE HERE
-};
